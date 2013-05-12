@@ -1,8 +1,56 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{west1994race}
-C.~West.
-\newblock {\em Race matters}.
-\newblock Vintage, 1994.
+\bibitem{latent:2011}
+http://johngarger.com/articles/methodology/latent-constructs-in-social-science-research.
+
+\bibitem{irt:2001}
+F.~B. Baker.
+\newblock {\em The basics of item response theory}.
+\newblock ERIC, 2001.
+
+\bibitem{analysis:1988}
+R.~D. Bock, R.~Gibbons, and E.~Muraki.
+\newblock Full-information item factor analysis.
+\newblock {\em Applied Psychological Measurement}, 12(3):261--280, 1988.
+
+\bibitem{byrne1998structural}
+B.~M. Byrne.
+\newblock {\em Structural equation modeling with LISREL, PRELIS, and SIMPLIS:
+  Basic concepts, applications, and programming}.
+\newblock Psychology Press, 1998.
+
+\bibitem{disparities:2009}
+D.~L. Coffman and R.~BeLue.
+\newblock Disparities in sense of community: True race differences or
+  differential item functioning?
+\newblock {\em Journal of community psychology}, 37(5):547--558, 2009.
+
+\bibitem{senseOfCommunity:1996}
+D.~W. McMillan.
+\newblock Sense of community.
+\newblock {\em Journal of community psychology}, 24(4):315--325, 1996.
+
+\bibitem{paradox:2010}
+D.~M. Mouzon.
+\newblock Can family relationships explain the race paradox in mental health?
+\newblock {\em Journal of Marriage and Family}, 75(2):470--485, 2013.
+
+\bibitem{neighborhood:2002}
+B.~H. Rankin and J.~M. Quane.
+\newblock Social contexts and urban adolescent outcomes: The interrelated
+  effects of neighborhoods, families, and peers on african-american youth.
+\newblock {\em Soc. Probs.}, 49:79, 2002.
+
+\bibitem{cognitiveLearning:2002}
+A.~P. Rovai.
+\newblock Sense of community, perceived cognitive learning, and persistence in
+  asynchronous learning networks.
+\newblock {\em The Internet and Higher Education}, 5(4):319--332, 2002.
+
+\bibitem{culteralWealth:2005}
+T.~J. Yosso*.
+\newblock Whose culture has capital? a critical race theory discussion of
+  community cultural wealth.
+\newblock {\em Race Ethnicity and Education}, 8(1):69--91, 2005.
 
 \end{thebibliography}

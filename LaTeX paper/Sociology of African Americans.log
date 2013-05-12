@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  7 APR 2013 12:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  12 MAY 2013 17:02
 entering extended mode
 **Sociology*of*African*Americans.tex
-("C:\Users\Chris\Documents\SOC AA\Sociology of African Americans.tex"
+
+("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
+Sociology of African Americans.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +15,9 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Users\Chris\Documents\SOC AA\sig-alternate.cls"
+
+("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
+sig-alternate.cls"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
@@ -228,7 +232,8 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-("C:\Users\Chris\Documents\SOC AA\Sociology of African Americans.aux")
+("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
+Sociology of African Americans.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
@@ -313,32 +318,52 @@ Underfull \hbox (badness 5316) in paragraph at lines 19--19
 []\crnotice This work is li-censed un-der the Cre-ative Com-mons Attribution-
  []
 
-("C:\Users\Chris\Documents\SOC AA\Sociology of African Americans.bbl") [1{C:/Pr
-ogramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
+Overfull \hbox (28.29349pt too wide) in paragraph at lines 52--54
+\T1/aer/m/n/9 ship/influence/reinforcementOfNeeds/sharedEmotionalConnection 
+ []
+
+
+Overfull \hbox (4.45877pt too wide) in paragraph at lines 105--105
+\secfnt NITY AND HOW THEY DIF-FER AMONG
+ []
+
+
+Overfull \hbox (19.8795pt too wide) in paragraph at lines 110--110
+[]\secfnt DIFFERENCES IN IM-POR-TANCE OF COM-
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-("C:\Users\Chris\Documents\SOC AA\Sociology of African Americans.aux") ) 
+("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
+Sociology of African Americans.bbl") [2
+
+]
+("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
+Sociology of African Americans.aux") ) 
 Here is how much of TeX's memory you used:
- 2990 strings out of 493921
- 37567 string characters out of 3144877
- 95582 words of memory out of 3000000
- 6236 multiletter control sequences out of 15000+200000
+ 3000 strings out of 493921
+ 38239 string characters out of 3144877
+ 101618 words of memory out of 3000000
+ 6246 multiletter control sequences out of 15000+200000
  45245 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,10n,26p,295b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmr8a.pfb>
-Output written on "Sociology of African Americans.pdf" (1 page, 61720 bytes).
+ 41i,10n,26p,387b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/
+enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on "Sociology of African Americans.pdf" (2 pages, 109513 bytes).
+
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
