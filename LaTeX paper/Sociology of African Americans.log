@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  12 MAY 2013 17:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  12 MAY 2013 18:36
 entering extended mode
 **Sociology*of*African*Americans.tex
 
@@ -324,19 +324,19 @@ Overfull \hbox (28.29349pt too wide) in paragraph at lines 52--54
  []
 
 
-Overfull \hbox (4.45877pt too wide) in paragraph at lines 105--105
+Overfull \hbox (4.45877pt too wide) in paragraph at lines 107--107
 \secfnt NITY AND HOW THEY DIF-FER AMONG
- []
-
-
-Overfull \hbox (19.8795pt too wide) in paragraph at lines 110--110
-[]\secfnt DIFFERENCES IN IM-POR-TANCE OF COM-
  []
 
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
+Overfull \hbox (19.8795pt too wide) in paragraph at lines 112--112
+[]\secfnt DIFFERENCES IN IM-POR-TANCE OF COM-
+ []
+
+
 ("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
 Sociology of African Americans.bbl") [2
 
@@ -353,17 +353,18 @@ Here is how much of TeX's memory you used:
  41i,10n,26p,387b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/
 enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Sociology of African Americans.pdf" (2 pages, 109513 bytes).
+/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mti9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on "Sociology of African Americans.pdf" (2 pages, 119737 bytes).
 
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
