@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  16 MAY 2013 17:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  16 MAY 2013 18:55
 entering extended mode
 **Sociology*of*African*Americans.tex
 
@@ -331,8 +331,8 @@ Overfull \hbox (8.45625pt too wide) in paragraph at lines 34--34
 File: Images/questions.png Graphic file (type png)
 
 <use Images/questions.png>
-Package pdftex.def Info: Images/questions.png used on input line 58.
-(pdftex.def)             Requested size: 469.75385pt x 204.38809pt.
+Package pdftex.def Info: Images/questions.png used on input line 57.
+(pdftex.def)             Requested size: 422.77559pt x 183.94803pt.
  [2]
 
 pdfTeX warning: pdflatex (file C:/Users/Chris/Documents/GitHub/SociologyOfAfric
@@ -342,7 +342,7 @@ rsion <1.7>, but at most version <1.5> allowed
 File: Images/whiteProb.pdf Graphic file (type pdf)
 
 <use Images/whiteProb.pdf>
-Package pdftex.def Info: Images/whiteProb.pdf used on input line 115.
+Package pdftex.def Info: Images/whiteProb.pdf used on input line 114.
 (pdftex.def)             Requested size: 180.67485pt x 144.54414pt.
 
 
@@ -353,7 +353,7 @@ rsion <1.7>, but at most version <1.5> allowed
 File: Images/blackProb.pdf Graphic file (type pdf)
 
 <use Images/blackProb.pdf>
-Package pdftex.def Info: Images/blackProb.pdf used on input line 116.
+Package pdftex.def Info: Images/blackProb.pdf used on input line 115.
 (pdftex.def)             Requested size: 180.67485pt x 144.54294pt.
 
 
@@ -363,7 +363,7 @@ ion <1.7>, but at most version <1.5> allowed
 <Images/allProb.pdf, id=24, 501.875pt x 369.38pt>
 File: Images/allProb.pdf Graphic file (type pdf)
  <use Images/allProb.pdf>
-Package pdftex.def Info: Images/allProb.pdf used on input line 116.
+Package pdftex.def Info: Images/allProb.pdf used on input line 115.
 (pdftex.def)             Requested size: 180.67485pt x 144.5367pt.
 
 Overfull \hbox (13.85796pt too wide) in paragraph at lines 123--123
@@ -388,7 +388,7 @@ Sociology of African Americans.aux") )
 Here is how much of TeX's memory you used:
  3044 strings out of 493921
  38947 string characters out of 3144877
- 104724 words of memory out of 3000000
+ 104720 words of memory out of 3000000
  6277 multiletter control sequences out of 15000+200000
  49529 words of font info for 66 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -409,7 +409,7 @@ m Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files
 (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on "Sociology of African Americans.pdf" (4 pages, 425024 bytes).
+Output written on "Sociology of African Americans.pdf" (4 pages, 425231 bytes).
 
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
