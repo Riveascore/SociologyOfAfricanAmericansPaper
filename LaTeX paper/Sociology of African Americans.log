@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  16 MAY 2013 12:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  16 MAY 2013 17:10
 entering extended mode
 **Sociology*of*African*Americans.tex
 
@@ -319,35 +319,89 @@ Underfull \hbox (badness 5316) in paragraph at lines 19--19
  []
 
 
-Overfull \hbox (8.45625pt too wide) in paragraph at lines 31--31
+Overfull \hbox (8.45625pt too wide) in paragraph at lines 34--34
 []\secfnt SENSE OF COM-MU-NITY BACK-GROUND 
  []
 
 
 LaTeX Warning: Citation `sarason:1974' on page \thepage  undefined on input lin
-e 32.
+e 36.
 
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Overfull \hbox (4.45877pt too wide) in paragraph at lines 82--82
-\secfnt NITY AND HOW THEY DIF-FER AMONG
+<Images/questions.png, id=12, 939.51pt x 408.77719pt>
+File: Images/questions.png Graphic file (type png)
+
+<use Images/questions.png>
+Package pdftex.def Info: Images/questions.png used on input line 58.
+(pdftex.def)             Requested size: 469.75385pt x 204.38809pt.
+
+
+pdfTeX warning: pdflatex (file C:/Users/Chris/Documents/GitHub/SociologyOfAfric
+anAmericansPaper/LaTeX paper/Images/whiteProb.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<Images/whiteProb.pdf, id=13, 501.875pt x 380.42125pt>
+File: Images/whiteProb.pdf Graphic file (type pdf)
+
+<use Images/whiteProb.pdf>
+Package pdftex.def Info: Images/whiteProb.pdf used on input line 96.
+(pdftex.def)             Requested size: 180.67485pt x 144.54414pt.
+
+
+pdfTeX warning: pdflatex (file C:/Users/Chris/Documents/GitHub/SociologyOfAfric
+anAmericansPaper/LaTeX paper/Images/blackProb.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<Images/blackProb.pdf, id=14, 501.875pt x 351.3125pt>
+File: Images/blackProb.pdf Graphic file (type pdf)
+
+<use Images/blackProb.pdf>
+Package pdftex.def Info: Images/blackProb.pdf used on input line 97.
+(pdftex.def)             Requested size: 180.67485pt x 144.54294pt.
+
+
+pdfTeX warning: pdflatex (file C:/Users/Chris/Documents/GitHub/SociologyOfAfric
+anAmericansPaper/LaTeX paper/Images/allProb.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<Images/allProb.pdf, id=15, 501.875pt x 369.38pt>
+File: Images/allProb.pdf Graphic file (type pdf)
+ <use Images/allProb.pdf>
+Package pdftex.def Info: Images/allProb.pdf used on input line 97.
+(pdftex.def)             Requested size: 180.67485pt x 144.5367pt.
+
+
+LaTeX Warning: Reference `sec:dimsensionalityAnalysis' on page \thepage  undefi
+ned on input line 105.
+
+
+LaTeX Warning: Reference `sec:parameterAnalysis' on page \thepage  undefined on
+ input line 105.
+
+[2] [3 <C:/Users/Chris/Documents/GitHub/SociologyOfAfricanAmericansPaper/LaTeX 
+paper/Images/questions.png> <C:/Users/Chris/Documents/GitHub/SociologyOfAfrican
+AmericansPaper/LaTeX paper/Images/whiteProb.pdf> <C:/Users/Chris/Documents/GitH
+ub/SociologyOfAfricanAmericansPaper/LaTeX paper/Images/blackProb.pdf> <C:/Users
+/Chris/Documents/GitHub/SociologyOfAfricanAmericansPaper/LaTeX paper/Images/all
+Prob.pdf>]
+Overfull \hbox (13.85796pt too wide) in paragraph at lines 125--125
+[]\secfnt Choice of in-for-ma-tion re-sponse the-ory model 
  []
 
 
-Overfull \hbox (28.29349pt too wide) in paragraph at lines 102--104
-\T1/aer/m/n/9 ship/influence/reinforcementOfNeeds/sharedEmotionalConnection 
- []
+LaTeX Warning: Reference `fig:information' on page \thepage  undefined on input
+ line 140.
 
-[2]
-Overfull \hbox (19.8795pt too wide) in paragraph at lines 159--159
-[]\secfnt DIFFERENCES IN IM-POR-TANCE OF COM-
+
+Overfull \hbox (10.94962pt too wide) in paragraph at lines 144--145
+\T1/aer/m/n/9 ap-proach (amount of SOC ver-sus SOC cal-cu-lated from amounts
  []
 
 
 ("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
-Sociology of African Americans.bbl") [3]
+Sociology of African Americans.bbl" [4]) [5
+
+]
 ("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
 Sociology of African Americans.aux")
 
@@ -355,30 +409,32 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3016 strings out of 493921
- 38428 string characters out of 3144877
- 104650 words of memory out of 3000000
- 6255 multiletter control sequences out of 15000+200000
+ 3055 strings out of 493921
+ 39168 string characters out of 3144877
+ 105750 words of memory out of 3000000
+ 6288 multiletter control sequences out of 15000+200000
  49529 words of font info for 66 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,10n,26p,791b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,26p,836b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/time
-s/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.p
-fb>
-Output written on "Sociology of African Americans.pdf" (3 pages, 156651 bytes).
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/tim
+es/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Sociology of African Americans.pdf" (5 pages, 428699 bytes).
 
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
