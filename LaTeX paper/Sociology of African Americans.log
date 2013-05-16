@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  15 MAY 2013 08:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.4)  16 MAY 2013 12:12
 entering extended mode
 **Sociology*of*African*Americans.tex
 
@@ -319,52 +319,66 @@ Underfull \hbox (badness 5316) in paragraph at lines 19--19
  []
 
 
-Overfull \hbox (4.45877pt too wide) in paragraph at lines 32--32
-\secfnt NITY AND HOW THEY DIF-FER AMONG
+Overfull \hbox (8.45625pt too wide) in paragraph at lines 31--31
+[]\secfnt SENSE OF COM-MU-NITY BACK-GROUND 
  []
 
 
-Overfull \hbox (28.29349pt too wide) in paragraph at lines 52--54
-\T1/aer/m/n/9 ship/influence/reinforcementOfNeeds/sharedEmotionalConnection 
- []
-
-
-Overfull \hbox (19.8795pt too wide) in paragraph at lines 109--109
-[]\secfnt DIFFERENCES IN IM-POR-TANCE OF COM-
- []
+LaTeX Warning: Citation `sarason:1974' on page \thepage  undefined on input lin
+e 32.
 
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
-Sociology of African Americans.bbl") [2
+Overfull \hbox (4.45877pt too wide) in paragraph at lines 82--82
+\secfnt NITY AND HOW THEY DIF-FER AMONG
+ []
 
-]
+
+Overfull \hbox (28.29349pt too wide) in paragraph at lines 102--104
+\T1/aer/m/n/9 ship/influence/reinforcementOfNeeds/sharedEmotionalConnection 
+ []
+
+[2]
+Overfull \hbox (19.8795pt too wide) in paragraph at lines 159--159
+[]\secfnt DIFFERENCES IN IM-POR-TANCE OF COM-
+ []
+
+
 ("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
-Sociology of African Americans.aux") ) 
+Sociology of African Americans.bbl") [3]
+("C:\Users\Chris\Documents\GitHub\SociologyOfAfricanAmericansPaper\LaTeX paper\
+Sociology of African Americans.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3000 strings out of 493921
- 38239 string characters out of 3144877
- 101618 words of memory out of 3000000
- 6246 multiletter control sequences out of 15000+200000
- 45245 words of font info for 59 fonts, out of 3000000 for 9000
+ 3016 strings out of 493921
+ 38428 string characters out of 3144877
+ 104650 words of memory out of 3000000
+ 6255 multiletter control sequences out of 15000+200000
+ 49529 words of font info for 66 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,10n,26p,387b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/
-enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mti9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Sociology of African Americans.pdf" (2 pages, 119255 bytes).
+ 41i,10n,26p,791b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/time
+s/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on "Sociology of African Americans.pdf" (3 pages, 156651 bytes).
 
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
