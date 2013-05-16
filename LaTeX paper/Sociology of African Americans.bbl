@@ -1,8 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{latent:2011}
-http://johngarger.com/articles/methodology/latent-constructs-in-social-science-research.
-
 \bibitem{irt:2001}
 F.~B. Baker.
 \newblock {\em The basics of item response theory}.
@@ -12,12 +9,6 @@ F.~B. Baker.
 R.~D. Bock, R.~Gibbons, and E.~Muraki.
 \newblock Full-information item factor analysis.
 \newblock {\em Applied Psychological Measurement}, 12(3):261--280, 1988.
-
-\bibitem{byrne1998structural}
-B.~M. Byrne.
-\newblock {\em Structural equation modeling with LISREL, PRELIS, and SIMPLIS:
-  Basic concepts, applications, and programming}.
-\newblock Psychology Press, 1998.
 
 \bibitem{oneFactor:1999}
 H.~M. Chipuer and G.~M. Pretty.
@@ -41,11 +32,6 @@ D.~W. McMillan and D.~M. Chavis.
 \newblock Sense of community: A definition and theory.
 \newblock {\em Journal of community psychology}, 14(1):6--23, 1986.
 
-\bibitem{paradox:2010}
-D.~M. Mouzon.
-\newblock Can family relationships explain the race paradox in mental health?
-\newblock {\em Journal of Marriage and Family}, 75(2):470--485, 2013.
-
 \bibitem{fourFactor:2008}
 N.~A. Peterson, P.~W. Speer, and D.~W. McMillan.
 \newblock Validation of a brief sense of community scale: Confirmation of the
@@ -58,25 +44,7 @@ N.~A. Peterson, P.~W. Speer, and D.~W. McMillan.
   principal theory of sense of community.
 \newblock {\em Journal of Community Psychology}, 36(1):61--73, 2008.
 
-\bibitem{neighborhood:2002}
-B.~H. Rankin and J.~M. Quane.
-\newblock Social contexts and urban adolescent outcomes: The interrelated
-  effects of neighborhoods, families, and peers on african-american youth.
-\newblock {\em Soc. Probs.}, 49:79, 2002.
-
-\bibitem{cognitiveLearning:2002}
-A.~P. Rovai.
-\newblock Sense of community, perceived cognitive learning, and persistence in
-  asynchronous learning networks.
-\newblock {\em The Internet and Higher Education}, 5(4):319--332, 2002.
-
 \bibitem{sarson:1974}
-S.~B. Sarason.
-\newblock {\em The psychological sense of community: Prospects for a community
-  psychology}.
-\newblock Jossey-Bass San Francisco, 1974.
-
-\bibitem{sarason1974psychological}
 S.~B. Sarason.
 \newblock {\em The psychological sense of community: Prospects for a community
   psychology}.
@@ -94,11 +62,5 @@ S.~Varma.
   p-values.
 \newblock {\em Educational Data Systems Inc.: Morgan Hill CA. Retrieved},
   16(07), 2006.
-
-\bibitem{culteralWealth:2005}
-T.~J. Yosso*.
-\newblock Whose culture has capital? a critical race theory discussion of
-  community cultural wealth.
-\newblock {\em Race Ethnicity and Education}, 8(1):69--91, 2005.
 
 \end{thebibliography}

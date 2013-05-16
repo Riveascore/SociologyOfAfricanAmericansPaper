@@ -33,7 +33,7 @@ This paper gives a summary of Coffman's experiment and findings in~\cite{dispari
 
 \section{Sense of Community Background}
 \label{sec:background}
-Sense of Community (SOC) has various definitions and is extremely important in sociology and psychology. In particular, Sarson introduced SOC in~\cite{sarason:1974} and described it as being one of the most important concepts for definition of self. Sense of Community as defined by McMillan in~\cite{senseOfCommunity:1996} as ``a spirit of belonging together, a feeling that there is an authority structure that can be trusted, an awareness that trade, and mutual benefit come from being together, and a spirit that comes from shared experiences that are preserved as art''. 
+Sense of Community (SOC) has various definitions and is extremely important in sociology and psychology. In particular, Sarson introduced SOC in~\cite{sarson:1974} and described it as being one of the most important concepts for definition of self. Sense of Community as defined by McMillan in~\cite{senseOfCommunity:1996} as ``a spirit of belonging together, a feeling that there is an authority structure that can be trusted, an awareness that trade, and mutual benefit come from being together, and a spirit that comes from shared experiences that are preserved as art''. 
 \subsection{Operational Constructs}
 Varying definitions exist concerning this term, but most literature follows a 4-piece operational system of SOC. The first construct is membership, which describes the idea that when people invest themselves into a community, they have a certain sense of a right to belong~\cite{definition:1986}. Influence, as defined by Peterson as ``a sense that one matters, or can make a difference, in a
 community and that the community matters to its members''~\cite{fourFactor:2008}. The third construct, dealing with the idea that the things desired and values shared in a community are similar or are the same. This is termed `reinforcement of needs'~\cite{disparities:2009}. Finally, SOC is also measured in this four-part operational construct system by a `shared emotional connection' between member of the community. 
@@ -89,20 +89,9 @@ Three models were suggested and tested to determine the proper approach for this
 \section{Differential Item Functioning}
 \label{sec:dif}
 Once all of the setup is completed, the core component of this experiment can be evaluated. In particular, Coffman wanted to assure that all questions being used to evaluate an individual's SOC were not biased towards a particular group. After parameter value(s) (depending on 1PL or 2PL model) are gathered for each question, differential item functioning (DIF) is applied to each parameter to see if they are variant from group to group. The null hypothesis used for this experiment will be discussed later seeing as they are dependent on the chosen IRT model.
-\begin{figure*}
-\label{fig:probability}
-\begin{center}$
-\begin{array}{cc}
-\includegraphics[width=2.5in, height=2in]{Images/whiteProb} &
-\includegraphics[width=2.5in, height=2in]{Images/blackProb} \\ \includegraphics[width=2.5in, height=2in]{Images/allProb}
-\end{array}$
-\end{center}
-\caption{Probability distribution of all 12 questions for whites blacks and for all candidates}
-\end{figure*}
-
 
 \subsection{Calculation of Differential Item Functioning}
-Swaminathan in~\cite{logisticDIF:1990} describes various approaches to calculating the DIF of items of single or multiple factors as well as working with models made up of single or multiple parameters for characteristics of questions. As will be depicted in Sections~\ref{sec:dimsensionalityAnalysis} and~\ref{sec:parameterAnalysis}, a one-factor, two-parameter based model was chosen and thus the following procedure for calculating DIF was used. 
+Swaminathan in~\cite{logisticDIF:1990} describes various approaches to calculating the DIF of items of single or multiple factors as well as working with models made up of single or multiple parameters for characteristics of questions. As will be depicted in Sections~\ref{sec:dimensionality} and~\ref{sec:parameterChoice}, a one-factor, two-parameter based model was chosen and thus the following procedure for calculating DIF was used. 
 
 First, a predictor for probability of answering yes to a question by modeling between different groups is described by Equation~\ref{eq:probabilityLogistic}. The difficulty of a question is $\beta_{0j}$, variance of response on an item for people with the same SOC score is represented by $\beta_{1j}$, and $\theta_{ij}$ describes the SOC of $person_i$ in $group_j$.
 \begin{equation}
@@ -119,8 +108,17 @@ Coffman explains that these probabilities between groups are transformed into ch
 \label{sec:results}
 \subsection{Chosen dimensionality}
 Full information item factor analysis was conducted on the gathered data-set multiple times to determine the proper dimensionality to use for this experiment. Though statistical analysis in TESTFACT, a program for scoring tests, and calculating factor analysis. The results, due to loss of significance in g-tests showed that a one-factor model was to be used for the experiment instead of using multiple operational constructs for scoring of SOC. Factor loadings for each question were generated from the one-factor full-information-analysis and are shown in~\ref{fig:questions}.
-
-Biserial correlations were a coefficient that described the relationship between a question and the average SOC of a group or groups. A large biserial correlation for a question would mean that people who got high SOC scores typically answered yes to this question. Facility was the percentage of people in the entire data-set who answered yes to a particular question.
+\begin{figure*}
+\label{fig:probability}
+\begin{center}$
+\begin{array}{cc}
+\includegraphics[width=2.5in, height=2in]{Images/whiteProb} &
+\includegraphics[width=2.5in, height=2in]{Images/blackProb} \\ \includegraphics[width=2.5in, height=2in]{Images/allProb}
+\end{array}$
+\end{center}
+\caption{Probability distribution of all 12 questions for whites blacks and for all candidates}
+\end{figure*}
+Biserial correlations were a coefficient that described the relationship between a question and the average SOC of a group or groups. A large biserial correlation for a question would mean that people who got high SOC scores typically answered yes to this question. Facility was the percentage of people in the entire data-set who answered yes to a particular question~\cite{biserial:2006}.
 
 \subsection{Choice of information response theory model}
 The statistical analysis tool R was used, and a latent trait modeling (LTM) package was implemented to determine the proper IRT model for this experiment. The three statistics described briefly in Section~\ref{sec:irtModel} were calculated by LTM, compared for significance and the chosen model was 2PL. Thus both difficulty and discrimination parameters were included and examined for statistically significant DIF~\cite{disparities:2009}.
@@ -137,7 +135,7 @@ I =  \frac{1}{  \sigma ^{2} }
 Standard deviation in~\cite{disparities:2009} is described by how much the SOC value varies from a probability of 0 to 1. Therefore, questions will low standard deviations will, based on Equation~\ref{eq:variance}, depict how useful a question is at determining someone's SOC. 
 
 If information differences at the same value of SOC are statistically significant then DIF is computed to determine if a $question_x$ is a good indicator at determining SOC differences between race or if $question_x$ is not important for the actual determination of SOC~\cite{disparities:2009}.
-Significant differences in a particular question, ``I feel at home in my neighborhood'' were found at areas of similar SOC between blacks and whites in the experiment, thus DIF was calculated on the results to determine how accurate of a determiner this question was for each group. Chi-square representations of Information are shown in Figure~\ref{fig:information}. After statistically analyzing parameters for DIF, none were found.
+Significant differences in a particular question, ``I feel at home in my neighborhood'' were found at areas of similar SOC between blacks and whites in the experiment, thus DIF was calculated on the results to determine how accurate of a determiner this question was for each group. After statistically analyzing parameters for DIF, none were found.
 
 \section{Discussion}
 \label{sec:discussion}
